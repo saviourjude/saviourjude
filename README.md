@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saviourjude
 - 👀 I’m interested in computer science and other aspects of information technology
 - 🌱 I’m currently learning python programming 
-- 💞️ I’m looking to collaborate on coding projects that improce skillset and problem solving 
+- 💞️ I’m looking to collaborate on coding projects that improve skillset and problem solving 
 - 📫 You can reach me through my email address nimungusaviour@gmail.com
 
 <!---
